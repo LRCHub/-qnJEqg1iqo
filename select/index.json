@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "comet",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-02-26T06:32:08.917953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Projectile Comet",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/01_Projectile_Comet_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Destructo Comet",
+      "artist": "Lost Sounds",
+      "has_synced": true,
+      "path": "select/02_Destructo_Comet_Lost_Sounds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Comet",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_Comet_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "St. Judy's Comet",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/04_St._Judy's_Comet_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Comet",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/05_Comet_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Comet Song",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_The_Comet_Song_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Comet Song",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_The_Comet_Song_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Halley's Comet",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/08_Halley's_Comet_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ride the Comet",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/09_Ride_the_Comet_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Comet Appears",
+      "artist": "The Shins",
+      "has_synced": true,
+      "path": "select/10_A_Comet_Appears_The_Shins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Comet Marbles",
+      "artist": "Pinkshinyultrablast",
+      "has_synced": false,
+      "path": "select/11_Comet_Marbles_Pinkshinyultrablast.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Comet",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/12_Comet_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Comet (feat. Tom Scharpling)",
+      "artist": "Steven Universe feat. Tom Scharpling",
+      "has_synced": true,
+      "path": "select/13_Comet_(feat._Tom_Scharpling)_Steven_Universe_feat._Tom_Scharpling.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Comet",
+      "artist": "Tom Scharpling",
+      "has_synced": true,
+      "path": "select/14_Comet_Tom_Scharpling.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "comet",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_comet_星街すいせい.txt"
+    }
+  ]
+}
